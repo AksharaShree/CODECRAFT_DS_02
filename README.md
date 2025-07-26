@@ -39,6 +39,12 @@ The analysis focused on answering several key questions, leading to the followin
 **Correlation Matrix of Pollutants**
 ![Correlation Heatmap](pollutant_correlation_heatmap.png)
 
+**Global Air Pollution Choropleth Map**
+*(Note: This is a static image. The full interactive map is available in the notebook.)*
+
+![Global Pollution Map](world_pollution_map.png)
+
+---
 ### Tools Used
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
