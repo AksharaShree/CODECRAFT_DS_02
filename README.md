@@ -10,7 +10,7 @@ The dataset used is the "Global Air Pollution Dataset" from Kaggle. It contains 
 ### How to Run
 You can run this project notebook directly in your browser using Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DQIOFIlarwimDMC4PqBAfQMAluFONW0?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AksharaShree/CODECRAFT_DS_02/blob/main/CODECRAFT_DS_0.ipynb)
 
 ### Key Questions and Findings
 The analysis focused on answering several key questions, leading to the following insights:
